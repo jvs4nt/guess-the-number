@@ -1,4 +1,5 @@
-<h1>Preview:</h1> 
+<h1>Preview:</h1>
+<h1>HTML, CSS, and JS</h1>
 
 <h2>This webapp can think a number and you try to guess it, if you lose, the app says if the number is higher or lower than your attempt</h2> 
 
